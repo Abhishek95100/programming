@@ -1,4 +1,4 @@
-# एक number लो और उसके सारे digits का sum निकालो (जैसे 123 → 1+2+3 = 6)।
+
 
 num = int (input ("Enter th number:"))
 
